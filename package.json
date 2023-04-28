@@ -1,0 +1,14 @@
+{
+  "name": "36faa6256951c555",
+  "main": "36faa6256951c555@438.js",
+  "version": "438.0.0",
+  "homepage": "https://observablehq.com/d/36faa6256951c555",
+  "author": {
+    "name": "ozturkfemrea",
+    "url": "https://observablehq.com/@ozturkfemrea"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}

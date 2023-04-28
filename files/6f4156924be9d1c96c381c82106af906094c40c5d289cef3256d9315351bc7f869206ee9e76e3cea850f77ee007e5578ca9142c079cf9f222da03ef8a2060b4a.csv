@@ -1,0 +1,1261 @@
+Index,Sector,Digest,Title,year,value
+1,AG,AG001,Certain miscellaneous animals and meats,2015,2619027947
+1,AG,AG001,Certain miscellaneous animals and meats,2016,2645355521
+1,AG,AG001,Certain miscellaneous animals and meats,2017,2907304458
+1,AG,AG001,Certain miscellaneous animals and meats,2018,2986132107
+1,AG,AG001,Certain miscellaneous animals and meats,2019,3059627104
+2,AG,AG002,Cattle and beef,2015,8767976938
+2,AG,AG002,Cattle and beef,2016,6766872757
+2,AG,AG002,Cattle and beef,2017,6730486959
+2,AG,AG002,Cattle and beef,2018,7077806486
+2,AG,AG002,Cattle and beef,2019,7690176806
+3,AG,AG003,Swine and pork,2015,1692294738
+3,AG,AG003,Swine and pork,2016,1643168002
+3,AG,AG003,Swine and pork,2017,1777176244
+3,AG,AG003,Swine and pork,2018,1588859624
+3,AG,AG003,Swine and pork,2019,1423691274
+4,AG,AG004,Sheep and meat of sheep,2015,672717003
+4,AG,AG004,Sheep and meat of sheep,2016,655591198
+4,AG,AG004,Sheep and meat of sheep,2017,806982002
+4,AG,AG004,Sheep and meat of sheep,2018,910206415
+4,AG,AG004,Sheep and meat of sheep,2019,987162051
+5,AG,AG005,Poultry,2015,549526748
+5,AG,AG005,Poultry,2016,567139898
+5,AG,AG005,Poultry,2017,510773926
+5,AG,AG005,Poultry,2018,563619321
+5,AG,AG005,Poultry,2019,548745398
+6,AG,AG006,Fresh or frozen fish,2015,7095996763
+6,AG,AG006,Fresh or frozen fish,2016,7599426871
+6,AG,AG006,Fresh or frozen fish,2017,8221772628
+6,AG,AG006,Fresh or frozen fish,2018,8957989410
+6,AG,AG006,Fresh or frozen fish,2019,8694557160
+7,AG,AG007,Canned fish,2015,1286445564
+7,AG,AG007,Canned fish,2016,1220514552
+7,AG,AG007,Canned fish,2017,1413177447
+7,AG,AG007,Canned fish,2018,1602707137
+7,AG,AG007,Canned fish,2019,1615054847
+8,AG,AG008,Cured and other fish,2015,577728548
+8,AG,AG008,Cured and other fish,2016,594904458
+8,AG,AG008,Cured and other fish,2017,609715566
+8,AG,AG008,Cured and other fish,2018,597808709
+8,AG,AG008,Cured and other fish,2019,634469439
+9,AG,AG009,Shellfish,2015,9656062416
+9,AG,AG009,Shellfish,2016,9960218079
+9,AG,AG009,Shellfish,2017,11218825832
+9,AG,AG009,Shellfish,2018,11258997668
+9,AG,AG009,Shellfish,2019,11017137595
+10,AG,AG010,Dairy products,2015,2801822142
+10,AG,AG010,Dairy products,2016,2657417069
+10,AG,AG010,Dairy products,2017,2595616884
+10,AG,AG010,Dairy products,2018,2646545510
+10,AG,AG010,Dairy products,2019,2834371932
+11,AG,AG011,Eggs,2015,186276721
+11,AG,AG011,Eggs,2016,115770514
+11,AG,AG011,Eggs,2017,74952913
+11,AG,AG011,Eggs,2018,71997037
+11,AG,AG011,Eggs,2019,75205777
+12,AG,AG012,Sugar and other sweeteners,2015,2971298158
+12,AG,AG012,Sugar and other sweeteners,2016,2848342882
+12,AG,AG012,Sugar and other sweeteners,2017,2848180317
+12,AG,AG012,Sugar and other sweeteners,2018,2763558073
+12,AG,AG012,Sugar and other sweeteners,2019,2723307998
+13,AG,AG013,Animal feeds,2015,2973729573
+13,AG,AG013,Animal feeds,2016,2781515177
+13,AG,AG013,Animal feeds,2017,2886017429
+13,AG,AG013,Animal feeds,2018,3308977349
+13,AG,AG013,Animal feeds,2019,3340800201
+14,AG,AG014,Live plants,2015,584188164
+14,AG,AG014,Live plants,2016,589276580
+14,AG,AG014,Live plants,2017,621793049
+14,AG,AG014,Live plants,2018,663952355
+14,AG,AG014,Live plants,2019,714883513
+15,AG,AG015,Seeds,2015,1024248955
+15,AG,AG015,Seeds,2016,1030187035
+15,AG,AG015,Seeds,2017,1075257954
+15,AG,AG015,Seeds,2018,1090438590
+15,AG,AG015,Seeds,2019,1076144286
+16,AG,AG016,Cut flowers,2015,1025471859
+16,AG,AG016,Cut flowers,2016,1128284751
+16,AG,AG016,Cut flowers,2017,1182251721
+16,AG,AG016,Cut flowers,2018,1241674080
+16,AG,AG016,Cut flowers,2019,1310106211
+17,AG,AG017,Miscellaneous vegetable substances,2015,2515514138
+17,AG,AG017,Miscellaneous vegetable substances,2016,2141795111
+17,AG,AG017,Miscellaneous vegetable substances,2017,2307187589
+17,AG,AG017,Miscellaneous vegetable substances,2018,2545451369
+17,AG,AG017,Miscellaneous vegetable substances,2019,2446107347
+18,AG,AG018,"Fresh, chilled, or frozen vegetables",2015,7783480275
+18,AG,AG018,"Fresh, chilled, or frozen vegetables",2016,8734989150
+18,AG,AG018,"Fresh, chilled, or frozen vegetables",2017,8706119002
+18,AG,AG018,"Fresh, chilled, or frozen vegetables",2018,9151320603
+18,AG,AG018,"Fresh, chilled, or frozen vegetables",2019,9559797495
+19,AG,AG019,"Prepared or preserved vegetables, mushrooms, and olives",2015,3523801280
+19,AG,AG019,"Prepared or preserved vegetables, mushrooms, and olives",2016,3719199055
+19,AG,AG019,"Prepared or preserved vegetables, mushrooms, and olives",2017,4011438877
+19,AG,AG019,"Prepared or preserved vegetables, mushrooms, and olives",2018,4228634991
+19,AG,AG019,"Prepared or preserved vegetables, mushrooms, and olives",2019,4139806378
+20,AG,AG020,Edible nuts,2015,2768055270
+20,AG,AG020,Edible nuts,2016,2870816130
+20,AG,AG020,Edible nuts,2017,3300298010
+20,AG,AG020,Edible nuts,2018,3632866919
+20,AG,AG020,Edible nuts,2019,3544838060
+21,AG,AG021,Tropical fruit,2015,5150707206
+21,AG,AG021,Tropical fruit,2016,5538990492
+21,AG,AG021,Tropical fruit,2017,6382801559
+21,AG,AG021,Tropical fruit,2018,6249064387
+21,AG,AG021,Tropical fruit,2019,6607454815
+22,AG,AG022,Citrus fruit,2015,1175354577
+22,AG,AG022,Citrus fruit,2016,1259345658
+22,AG,AG022,Citrus fruit,2017,1383769480
+22,AG,AG022,Citrus fruit,2018,1684685140
+22,AG,AG022,Citrus fruit,2019,1538323163
+23,AG,AG023,Deciduous fruit,2015,514586360
+23,AG,AG023,Deciduous fruit,2016,599792905
+23,AG,AG023,Deciduous fruit,2017,523020978
+23,AG,AG023,Deciduous fruit,2018,523037542
+23,AG,AG023,Deciduous fruit,2019,499042745
+24,AG,AG024,Other fresh fruit,2015,4075678257
+24,AG,AG024,Other fresh fruit,2016,4741118589
+24,AG,AG024,Other fresh fruit,2017,4973261264
+24,AG,AG024,Other fresh fruit,2018,5400768287
+24,AG,AG024,Other fresh fruit,2019,6122092858
+25,AG,AG025,Dried fruit other than tropical,2015,259738745
+25,AG,AG025,Dried fruit other than tropical,2016,254698833
+25,AG,AG025,Dried fruit other than tropical,2017,232965327
+25,AG,AG025,Dried fruit other than tropical,2018,302126114
+25,AG,AG025,Dried fruit other than tropical,2019,226247538
+26,AG,AG026,Frozen fruit,2015,893295596
+26,AG,AG026,Frozen fruit,2016,814546146
+26,AG,AG026,Frozen fruit,2017,667509778
+26,AG,AG026,Frozen fruit,2018,761713615
+26,AG,AG026,Frozen fruit,2019,854042343
+27,AG,AG027,Prepared or preserved fruit,2015,2011835966
+27,AG,AG027,Prepared or preserved fruit,2016,2083166355
+27,AG,AG027,Prepared or preserved fruit,2017,2198200489
+27,AG,AG027,Prepared or preserved fruit,2018,2354339519
+27,AG,AG027,Prepared or preserved fruit,2019,2329800241
+28,AG,AG028,Coffee and tea,2015,6926896617
+28,AG,AG028,Coffee and tea,2016,6621300233
+28,AG,AG028,Coffee and tea,2017,7214453079
+28,AG,AG028,Coffee and tea,2018,6617274241
+28,AG,AG028,Coffee and tea,2019,6764566238
+29,AG,AG029,Spices,2015,1693485877
+29,AG,AG029,Spices,2016,1738070133
+29,AG,AG029,Spices,2017,1880947750
+29,AG,AG029,Spices,2018,1840326499
+29,AG,AG029,Spices,2019,1738285587
+30,AG,AG030,Cereals,2015,2430419534
+30,AG,AG030,Cereals,2016,1979010075
+30,AG,AG030,Cereals,2017,2153450964
+30,AG,AG030,Cereals,2018,2393849094
+30,AG,AG030,Cereals,2019,2141752030
+31,AG,AG031,"Milled grains, malts, and starches",2015,1404559689
+31,AG,AG031,"Milled grains, malts, and starches",2016,1420447006
+31,AG,AG031,"Milled grains, malts, and starches",2017,1466267398
+31,AG,AG031,"Milled grains, malts, and starches",2018,1681927566
+31,AG,AG031,"Milled grains, malts, and starches",2019,1719736571
+32,AG,AG032,Oilseeds,2015,1098411727
+32,AG,AG032,Oilseeds,2016,898359326
+32,AG,AG032,Oilseeds,2017,910718194
+32,AG,AG032,Oilseeds,2018,891011960
+32,AG,AG032,Oilseeds,2019,806208812
+33,AG,AG033,Animal or vegetable fats and oils,2015,5741175249
+33,AG,AG033,Animal or vegetable fats and oils,2016,6153320035
+33,AG,AG033,Animal or vegetable fats and oils,2017,6923090769
+33,AG,AG033,Animal or vegetable fats and oils,2018,6808657107
+33,AG,AG033,Animal or vegetable fats and oils,2019,6185693605
+34,AG,AG034,"Pasta, cereals, and other bakery goods",2015,6002121339
+34,AG,AG034,"Pasta, cereals, and other bakery goods",2016,6529259274
+34,AG,AG034,"Pasta, cereals, and other bakery goods",2017,6961921261
+34,AG,AG034,"Pasta, cereals, and other bakery goods",2018,7730679163
+34,AG,AG034,"Pasta, cereals, and other bakery goods",2019,8289945698
+35,AG,AG035,"Sauces, condiments, and soups",2015,1321073991
+35,AG,AG035,"Sauces, condiments, and soups",2016,1401455380
+35,AG,AG035,"Sauces, condiments, and soups",2017,1484997448
+35,AG,AG035,"Sauces, condiments, and soups",2018,1616958804
+35,AG,AG035,"Sauces, condiments, and soups",2019,1681927443
+36,AG,AG036,"Infant formulas, malt extracts, and other edible preparations",2015,2628730212
+36,AG,AG036,"Infant formulas, malt extracts, and other edible preparations",2016,2799994690
+36,AG,AG036,"Infant formulas, malt extracts, and other edible preparations",2017,2933137423
+36,AG,AG036,"Infant formulas, malt extracts, and other edible preparations",2018,6019420219
+36,AG,AG036,"Infant formulas, malt extracts, and other edible preparations",2019,6758852734
+37,AG,AG037,"Cocoa, chocolate, and confectionery",2015,6512562464
+37,AG,AG037,"Cocoa, chocolate, and confectionery",2016,6863392873
+37,AG,AG037,"Cocoa, chocolate, and confectionery",2017,6814504474
+37,AG,AG037,"Cocoa, chocolate, and confectionery",2018,6647307930
+37,AG,AG037,"Cocoa, chocolate, and confectionery",2019,6948046808
+38,AG,AG038,Fruit and vegetable juices,2015,1777663114
+38,AG,AG038,Fruit and vegetable juices,2016,1784749909
+38,AG,AG038,Fruit and vegetable juices,2017,1931306890
+38,AG,AG038,Fruit and vegetable juices,2018,2206706883
+38,AG,AG038,Fruit and vegetable juices,2019,2053815956
+39,AG,AG039,"Nonalcoholic beverages, excluding fruit and vegetable juices",2015,3146517458
+39,AG,AG039,"Nonalcoholic beverages, excluding fruit and vegetable juices",2016,3390624764
+39,AG,AG039,"Nonalcoholic beverages, excluding fruit and vegetable juices",2017,3719316117
+39,AG,AG039,"Nonalcoholic beverages, excluding fruit and vegetable juices",2018,3798764743
+39,AG,AG039,"Nonalcoholic beverages, excluding fruit and vegetable juices",2019,3940232481
+40,AG,AG040,Malt beverages,2015,4549983654
+40,AG,AG040,Malt beverages,2016,4868977965
+40,AG,AG040,Malt beverages,2017,5087074803
+40,AG,AG040,Malt beverages,2018,5351166044
+40,AG,AG040,Malt beverages,2019,5620345052
+41,AG,AG041,Wine and certain other fermented beverages,2015,5616409055
+41,AG,AG041,Wine and certain other fermented beverages,2016,5806182095
+41,AG,AG041,Wine and certain other fermented beverages,2017,6200166412
+41,AG,AG041,Wine and certain other fermented beverages,2018,6523744938
+41,AG,AG041,Wine and certain other fermented beverages,2019,6596128813
+42,AG,AG042,Distilled spirits,2015,7276336007
+42,AG,AG042,Distilled spirits,2016,7681019413
+42,AG,AG042,Distilled spirits,2017,7871427620
+42,AG,AG042,Distilled spirits,2018,8615008698
+42,AG,AG042,Distilled spirits,2019,9422832754
+43,AG,AG043,Unmanufactured tobacco,2015,727259266
+43,AG,AG043,Unmanufactured tobacco,2016,744743340
+43,AG,AG043,Unmanufactured tobacco,2017,646809549
+43,AG,AG043,Unmanufactured tobacco,2018,672545699
+43,AG,AG043,Unmanufactured tobacco,2019,564731211
+44,AG,AG044,Cigars and certain other manufactured tobacco,2015,918695571
+44,AG,AG044,Cigars and certain other manufactured tobacco,2016,996088424
+44,AG,AG044,Cigars and certain other manufactured tobacco,2017,1065524024
+44,AG,AG044,Cigars and certain other manufactured tobacco,2018,1133834055
+44,AG,AG044,Cigars and certain other manufactured tobacco,2019,1186152958
+45,AG,AG045,Cigarettes,2015,412405424
+45,AG,AG045,Cigarettes,2016,416625219
+45,AG,AG045,Cigarettes,2017,419862311
+45,AG,AG045,Cigarettes,2018,394910471
+45,AG,AG045,Cigarettes,2019,392461139
+46,AG,AG046,"Hides, skins, and leather",2015,804566688
+46,AG,AG046,"Hides, skins, and leather",2016,789376704
+46,AG,AG046,"Hides, skins, and leather",2017,737795943
+46,AG,AG046,"Hides, skins, and leather",2018,720766959
+46,AG,AG046,"Hides, skins, and leather",2019,589150315
+47,AG,AG047,Furskins,2015,223536191
+47,AG,AG047,Furskins,2016,152746059
+47,AG,AG047,Furskins,2017,96114816
+47,AG,AG047,Furskins,2018,52651861
+47,AG,AG047,Furskins,2019,54903348
+48,AG,AG048,Wool and other animal hair,2015,22726743
+48,AG,AG048,Wool and other animal hair,2016,19482847
+48,AG,AG048,Wool and other animal hair,2017,16735170
+48,AG,AG048,Wool and other animal hair,2018,20761457
+48,AG,AG048,Wool and other animal hair,2019,20895230
+49,AG,AG049,"Cotton, not carded or combed",2015,4598329
+49,AG,AG049,"Cotton, not carded or combed",2016,11575263
+49,AG,AG049,"Cotton, not carded or combed",2017,3177646
+49,AG,AG049,"Cotton, not carded or combed",2018,2897135
+49,AG,AG049,"Cotton, not carded or combed",2019,1428397
+50,AG,AG050,Ethyl alcohol for nonbeverage purposes,2015,561352773
+50,AG,AG050,Ethyl alcohol for nonbeverage purposes,2016,474259215
+50,AG,AG050,Ethyl alcohol for nonbeverage purposes,2017,646477147
+50,AG,AG050,Ethyl alcohol for nonbeverage purposes,2018,637434677
+50,AG,AG050,Ethyl alcohol for nonbeverage purposes,2019,761049822
+51,CH,CH001,Major primary olefins,2015,804878481
+51,CH,CH001,Major primary olefins,2016,647733152
+51,CH,CH001,Major primary olefins,2017,819504785
+51,CH,CH001,Major primary olefins,2018,954852145
+51,CH,CH001,Major primary olefins,2019,702405489
+52,CH,CH002,Other olefins,2015,511710150
+52,CH,CH002,Other olefins,2016,456445210
+52,CH,CH002,Other olefins,2017,458707491
+52,CH,CH002,Other olefins,2018,475846059
+52,CH,CH002,Other olefins,2019,466145025
+53,CH,CH003,Primary aromatics,2015,1688587356
+53,CH,CH003,Primary aromatics,2016,1178152379
+53,CH,CH003,Primary aromatics,2017,1281466253
+53,CH,CH003,Primary aromatics,2018,1497517934
+53,CH,CH003,Primary aromatics,2019,1182067542
+54,CH,CH004,Organic commodity chemicals,2015,1915443093
+54,CH,CH004,Organic commodity chemicals,2016,1815264211
+54,CH,CH004,Organic commodity chemicals,2017,1962982348
+54,CH,CH004,Organic commodity chemicals,2018,2264736839
+54,CH,CH004,Organic commodity chemicals,2019,2050093587
+55,CH,CH005,Organic specialty chemicals,2015,11934630847
+55,CH,CH005,Organic specialty chemicals,2016,14604074090
+55,CH,CH005,Organic specialty chemicals,2017,14403085155
+55,CH,CH005,Organic specialty chemicals,2018,16568815038
+55,CH,CH005,Organic specialty chemicals,2019,15748884490
+56,CH,CH006,Certain organic chemicals,2015,10336981954
+56,CH,CH006,Certain organic chemicals,2016,9433889040
+56,CH,CH006,Certain organic chemicals,2017,10379918062
+56,CH,CH006,Certain organic chemicals,2018,11697451078
+56,CH,CH006,Certain organic chemicals,2019,9652575480
+57,CH,CH007,Miscellaneous inorganic chemicals,2015,9379908398
+57,CH,CH007,Miscellaneous inorganic chemicals,2016,8155505671
+57,CH,CH007,Miscellaneous inorganic chemicals,2017,9337698475
+57,CH,CH007,Miscellaneous inorganic chemicals,2018,11780059982
+57,CH,CH007,Miscellaneous inorganic chemicals,2019,11497144655
+58,CH,CH008,Inorganic acids,2015,676116782
+58,CH,CH008,Inorganic acids,2016,583547646
+58,CH,CH008,Inorganic acids,2017,547251149
+58,CH,CH008,Inorganic acids,2018,648825919
+58,CH,CH008,Inorganic acids,2019,765311941
+59,CH,CH009,Chlor-alkali chemicals,2015,345523966
+59,CH,CH009,Chlor-alkali chemicals,2016,294176749
+59,CH,CH009,Chlor-alkali chemicals,2017,337656126
+59,CH,CH009,Chlor-alkali chemicals,2018,373691871
+59,CH,CH009,Chlor-alkali chemicals,2019,302463583
+60,CH,CH010,Fertilizers,2015,10931719411
+60,CH,CH010,Fertilizers,2016,7206357901
+60,CH,CH010,Fertilizers,2017,7200012485
+60,CH,CH010,Fertilizers,2018,8203657432
+60,CH,CH010,Fertilizers,2019,7728777871
+61,CH,CH011,"Paints, inks, and related items, and certain components thereof",2015,3529301730
+61,CH,CH011,"Paints, inks, and related items, and certain components thereof",2016,3430998450
+61,CH,CH011,"Paints, inks, and related items, and certain components thereof",2017,3743330534
+61,CH,CH011,"Paints, inks, and related items, and certain components thereof",2018,4147332647
+61,CH,CH011,"Paints, inks, and related items, and certain components thereof",2019,4027380203
+62,CH,CH012,Synthetic organic pigments,2015,506646893
+62,CH,CH012,Synthetic organic pigments,2016,481502028
+62,CH,CH012,Synthetic organic pigments,2017,485526748
+62,CH,CH012,Synthetic organic pigments,2018,498104861
+62,CH,CH012,Synthetic organic pigments,2019,447616815
+63,CH,CH013,Synthetic dyes and azoic couplers,2015,452978549
+63,CH,CH013,Synthetic dyes and azoic couplers,2016,394830102
+63,CH,CH013,Synthetic dyes and azoic couplers,2017,398503627
+63,CH,CH013,Synthetic dyes and azoic couplers,2018,495358779
+63,CH,CH013,Synthetic dyes and azoic couplers,2019,442447469
+64,CH,CH014,Synthetic tanning agents,2015,10890624
+64,CH,CH014,Synthetic tanning agents,2016,13869678
+64,CH,CH014,Synthetic tanning agents,2017,12119426
+64,CH,CH014,Synthetic tanning agents,2018,9328010
+64,CH,CH014,Synthetic tanning agents,2019,8092317
+65,CH,CH015,Natural tanning and dyeing materials,2015,164280663
+65,CH,CH015,Natural tanning and dyeing materials,2016,186749155
+65,CH,CH015,Natural tanning and dyeing materials,2017,192670079
+65,CH,CH015,Natural tanning and dyeing materials,2018,213822214
+65,CH,CH015,Natural tanning and dyeing materials,2019,191738653
+66,CH,CH016,Photographic chemicals and preparations,2015,723877701
+66,CH,CH016,Photographic chemicals and preparations,2016,711222667
+66,CH,CH016,Photographic chemicals and preparations,2017,697581356
+66,CH,CH016,Photographic chemicals and preparations,2018,693224488
+66,CH,CH016,Photographic chemicals and preparations,2019,686517861
+67,CH,CH017,Pesticide products and formulations,2015,3546841626
+67,CH,CH017,Pesticide products and formulations,2016,3395849055
+67,CH,CH017,Pesticide products and formulations,2017,3863084880
+67,CH,CH017,Pesticide products and formulations,2018,3962905529
+67,CH,CH017,Pesticide products and formulations,2019,3821761397
+68,CH,CH018,Adhesives and glues,2015,413227422
+68,CH,CH018,Adhesives and glues,2016,438851333
+68,CH,CH018,Adhesives and glues,2017,511574933
+68,CH,CH018,Adhesives and glues,2018,530685730
+68,CH,CH018,Adhesives and glues,2019,534662003
+69,CH,CH019,Medicinal chemicals,2015,109777711840
+69,CH,CH019,Medicinal chemicals,2016,113186629430
+69,CH,CH019,Medicinal chemicals,2017,112514590657
+69,CH,CH019,Medicinal chemicals,2018,135482565309
+69,CH,CH019,Medicinal chemicals,2019,151627306729
+70,CH,CH020,Essential oils and other flavoring materials,2015,4002714622
+70,CH,CH020,Essential oils and other flavoring materials,2016,3914549641
+70,CH,CH020,Essential oils and other flavoring materials,2017,4212798096
+70,CH,CH020,Essential oils and other flavoring materials,2018,4927846445
+70,CH,CH020,Essential oils and other flavoring materials,2019,4741631780
+71,CH,CH021,"Perfumes, cosmetics, and toiletries",2015,8289440040
+71,CH,CH021,"Perfumes, cosmetics, and toiletries",2016,8849677859
+71,CH,CH021,"Perfumes, cosmetics, and toiletries",2017,9499672073
+71,CH,CH021,"Perfumes, cosmetics, and toiletries",2018,10365448574
+71,CH,CH021,"Perfumes, cosmetics, and toiletries",2019,10068125963
+72,CH,CH022,"Soaps, detergents, and surface-active agents",2015,2578478008
+72,CH,CH022,"Soaps, detergents, and surface-active agents",2016,2577732331
+72,CH,CH022,"Soaps, detergents, and surface-active agents",2017,2725409463
+72,CH,CH022,"Soaps, detergents, and surface-active agents",2018,2982554561
+72,CH,CH022,"Soaps, detergents, and surface-active agents",2019,2909801027
+73,CH,CH023,Miscellaneous chemicals and specialties,2015,5956412651
+73,CH,CH023,Miscellaneous chemicals and specialties,2016,7142206292
+73,CH,CH023,Miscellaneous chemicals and specialties,2017,6740183941
+73,CH,CH023,Miscellaneous chemicals and specialties,2018,6901883205
+73,CH,CH023,Miscellaneous chemicals and specialties,2019,6942706236
+74,CH,CH024,"Explosives, propellant powders, and related items",2015,765878715
+74,CH,CH024,"Explosives, propellant powders, and related items",2016,737143729
+74,CH,CH024,"Explosives, propellant powders, and related items",2017,752055750
+74,CH,CH024,"Explosives, propellant powders, and related items",2018,913940351
+74,CH,CH024,"Explosives, propellant powders, and related items",2019,875609461
+75,CH,CH025,Polyethylene resins in primary forms,2015,4349705363
+75,CH,CH025,Polyethylene resins in primary forms,2016,4154793580
+75,CH,CH025,Polyethylene resins in primary forms,2017,4384711092
+75,CH,CH025,Polyethylene resins in primary forms,2018,4734148706
+75,CH,CH025,Polyethylene resins in primary forms,2019,4105714903
+76,CH,CH026,Polypropylene resins in primary forms,2015,556387104
+76,CH,CH026,Polypropylene resins in primary forms,2016,760216043
+76,CH,CH026,Polypropylene resins in primary forms,2017,607986788
+76,CH,CH026,Polypropylene resins in primary forms,2018,950771672
+76,CH,CH026,Polypropylene resins in primary forms,2019,816252387
+77,CH,CH027,Polyvinyl chloride resins in primary forms,2015,392730783
+77,CH,CH027,Polyvinyl chloride resins in primary forms,2016,388128219
+77,CH,CH027,Polyvinyl chloride resins in primary forms,2017,403217812
+77,CH,CH027,Polyvinyl chloride resins in primary forms,2018,425657931
+77,CH,CH027,Polyvinyl chloride resins in primary forms,2019,421189752
+78,CH,CH028,Styrene polymers in primary forms,2015,1183712214
+78,CH,CH028,Styrene polymers in primary forms,2016,1109720701
+78,CH,CH028,Styrene polymers in primary forms,2017,1291970203
+78,CH,CH028,Styrene polymers in primary forms,2018,1413516430
+78,CH,CH028,Styrene polymers in primary forms,2019,1143910191
+79,CH,CH029,Saturated polyester resins,2015,1418057113
+79,CH,CH029,Saturated polyester resins,2016,1420536663
+79,CH,CH029,Saturated polyester resins,2017,1534942676
+79,CH,CH029,Saturated polyester resins,2018,1998396521
+79,CH,CH029,Saturated polyester resins,2019,1666170258
+80,CH,CH030,Other plastics in primary forms,2015,6104212082
+80,CH,CH030,Other plastics in primary forms,2016,5896290202
+80,CH,CH030,Other plastics in primary forms,2017,6733994292
+80,CH,CH030,Other plastics in primary forms,2018,7570105309
+80,CH,CH030,Other plastics in primary forms,2019,6946990819
+81,CH,CH031,Synthetic rubber,2015,1942315009
+81,CH,CH031,Synthetic rubber,2016,1790658182
+81,CH,CH031,Synthetic rubber,2017,1989442363
+81,CH,CH031,Synthetic rubber,2018,2122703439
+81,CH,CH031,Synthetic rubber,2019,2101765071
+82,CH,CH032,Tires and tubes,2015,14554487879
+82,CH,CH032,Tires and tubes,2016,13612826980
+82,CH,CH032,Tires and tubes,2017,14060489010
+82,CH,CH032,Tires and tubes,2018,15159331876
+82,CH,CH032,Tires and tubes,2019,15277105603
+83,CH,CH033,Miscellaneous plastic products,2015,32472954208
+83,CH,CH033,Miscellaneous plastic products,2016,33050846823
+83,CH,CH033,Miscellaneous plastic products,2017,35670769368
+83,CH,CH033,Miscellaneous plastic products,2018,40330885539
+83,CH,CH033,Miscellaneous plastic products,2019,41277606172
+84,CH,CH034,Miscellaneous rubber products,2015,6445646566
+84,CH,CH034,Miscellaneous rubber products,2016,6241318144
+84,CH,CH034,Miscellaneous rubber products,2017,6570365296
+84,CH,CH034,Miscellaneous rubber products,2018,7268123827
+84,CH,CH034,Miscellaneous rubber products,2019,7112998703
+85,CH,CH035,Gelatin,2015,280866754
+85,CH,CH035,Gelatin,2016,241190942
+85,CH,CH035,Gelatin,2017,236823457
+85,CH,CH035,Gelatin,2018,256747890
+85,CH,CH035,Gelatin,2019,290940663
+86,CH,CH036,Natural rubber,2015,1498664865
+86,CH,CH036,Natural rubber,2016,1307743211
+86,CH,CH036,Natural rubber,2017,1767820662
+86,CH,CH036,Natural rubber,2018,1538311908
+86,CH,CH036,Natural rubber,2019,1523484620
+87,EL,EL001,Office machines,2015,1555647354
+87,EL,EL001,Office machines,2016,1557188566
+87,EL,EL001,Office machines,2017,1526347624
+87,EL,EL001,Office machines,2018,1504185296
+87,EL,EL001,Office machines,2019,1308477266
+88,EL,EL002,Telecommunications equipment,2015,105055447438
+88,EL,EL002,Telecommunications equipment,2016,107954575992
+88,EL,EL002,Telecommunications equipment,2017,116046588669
+88,EL,EL002,Telecommunications equipment,2018,111943284016
+88,EL,EL002,Telecommunications equipment,2019,102242105723
+89,EL,EL003,Consumer electronics,2015,42698309928
+89,EL,EL003,Consumer electronics,2016,39167913590
+89,EL,EL003,Consumer electronics,2017,42723804628
+89,EL,EL003,Consumer electronics,2018,42795690237
+89,EL,EL003,Consumer electronics,2019,42133764085
+90,EL,EL004,Blank and prerecorded media,2015,6863702065
+90,EL,EL004,Blank and prerecorded media,2016,8203146561
+90,EL,EL004,Blank and prerecorded media,2017,10611382714
+90,EL,EL004,Blank and prerecorded media,2018,11294687956
+90,EL,EL004,Blank and prerecorded media,2019,10961192693
+91,EL,EL005,Navigational instruments and remote control apparatus,2015,7199703803
+91,EL,EL005,Navigational instruments and remote control apparatus,2016,6963876165
+91,EL,EL005,Navigational instruments and remote control apparatus,2017,6736805705
+91,EL,EL005,Navigational instruments and remote control apparatus,2018,6772130110
+91,EL,EL005,Navigational instruments and remote control apparatus,2019,6586073160
+92,EL,EL006,Radio and television broadcasting equipment,2015,3600854460
+92,EL,EL006,Radio and television broadcasting equipment,2016,3526703589
+92,EL,EL006,Radio and television broadcasting equipment,2017,3845607913
+92,EL,EL006,Radio and television broadcasting equipment,2018,3542846717
+92,EL,EL006,Radio and television broadcasting equipment,2019,3174687885
+93,EL,EL007,Electric sound and visual signaling apparatus,2015,3453800847
+93,EL,EL007,Electric sound and visual signaling apparatus,2016,3628428005
+93,EL,EL007,Electric sound and visual signaling apparatus,2017,3804275993
+93,EL,EL007,Electric sound and visual signaling apparatus,2018,4041006350
+93,EL,EL007,Electric sound and visual signaling apparatus,2019,3889564272
+94,EL,EL008,Electrical capacitors and resistors,2015,2722949435
+94,EL,EL008,Electrical capacitors and resistors,2016,2349741169
+94,EL,EL008,Electrical capacitors and resistors,2017,2426894714
+94,EL,EL008,Electrical capacitors and resistors,2018,2993534942
+94,EL,EL008,Electrical capacitors and resistors,2019,2716285289
+95,EL,EL009,Printed circuits,2015,2049793566
+95,EL,EL009,Printed circuits,2016,2080683284
+95,EL,EL009,Printed circuits,2017,2006592725
+95,EL,EL009,Printed circuits,2018,2126788898
+95,EL,EL009,Printed circuits,2019,1867671887
+96,EL,EL010,Circuit apparatus exceeding 1000V,2015,720006119
+96,EL,EL010,Circuit apparatus exceeding 1000V,2016,782473840
+96,EL,EL010,Circuit apparatus exceeding 1000V,2017,844120500
+96,EL,EL010,Circuit apparatus exceeding 1000V,2018,904705506
+96,EL,EL010,Circuit apparatus exceeding 1000V,2019,978879362
+97,EL,EL011,Circuit apparatus not exceeding 1000V,2015,10146516875
+97,EL,EL011,Circuit apparatus not exceeding 1000V,2016,10197408152
+97,EL,EL011,Circuit apparatus not exceeding 1000V,2017,10546933685
+97,EL,EL011,Circuit apparatus not exceeding 1000V,2018,11503158896
+97,EL,EL011,Circuit apparatus not exceeding 1000V,2019,10963750294
+98,EL,EL012,Circuit apparatus assemblies,2015,10008471177
+98,EL,EL012,Circuit apparatus assemblies,2016,10399733896
+98,EL,EL012,Circuit apparatus assemblies,2017,11057220558
+98,EL,EL012,Circuit apparatus assemblies,2018,12363400956
+98,EL,EL012,Circuit apparatus assemblies,2019,13131277015
+99,EL,EL013,Parts of circuit apparatus,2015,2939333679
+99,EL,EL013,Parts of circuit apparatus,2016,2892297923
+99,EL,EL013,Parts of circuit apparatus,2017,3077953939
+99,EL,EL013,Parts of circuit apparatus,2018,3419491797
+99,EL,EL013,Parts of circuit apparatus,2019,3339859779
+100,EL,EL014,Electron tubes,2015,251245833
+100,EL,EL014,Electron tubes,2016,239263479
+100,EL,EL014,Electron tubes,2017,238179732
+100,EL,EL014,Electron tubes,2018,259906671
+100,EL,EL014,Electron tubes,2019,280428112
+101,EL,EL015,Semiconductors and integrated circuits,2015,40134154572
+101,EL,EL015,Semiconductors and integrated circuits,2016,44174043204
+101,EL,EL015,Semiconductors and integrated circuits,2017,43964628806
+101,EL,EL015,Semiconductors and integrated circuits,2018,43532703910
+101,EL,EL015,Semiconductors and integrated circuits,2019,44275650984
+102,EL,EL016,Miscellaneous electrical equipment,2015,8241321999
+102,EL,EL016,Miscellaneous electrical equipment,2016,8554251484
+102,EL,EL016,Miscellaneous electrical equipment,2017,10410866588
+102,EL,EL016,Miscellaneous electrical equipment,2018,11954085623
+102,EL,EL016,Miscellaneous electrical equipment,2019,10912763692
+103,EL,EL017,"Computers, peripherals, and parts",2015,119619597604
+103,EL,EL017,"Computers, peripherals, and parts",2016,112553857978
+103,EL,EL017,"Computers, peripherals, and parts",2017,123982818781
+103,EL,EL017,"Computers, peripherals, and parts",2018,137915473761
+103,EL,EL017,"Computers, peripherals, and parts",2019,126415481489
+104,EL,EL018,Photographic film and paper,2015,907072083
+104,EL,EL018,Photographic film and paper,2016,939577013
+104,EL,EL018,Photographic film and paper,2017,963000322
+104,EL,EL018,Photographic film and paper,2018,1046214220
+104,EL,EL018,Photographic film and paper,2019,1068609280
+105,EL,EL019,"Optical fibers, optical fiber bundles and cables",2015,978180317
+105,EL,EL019,"Optical fibers, optical fiber bundles and cables",2016,1128106915
+105,EL,EL019,"Optical fibers, optical fiber bundles and cables",2017,1345605426
+105,EL,EL019,"Optical fibers, optical fiber bundles and cables",2018,1436191897
+105,EL,EL019,"Optical fibers, optical fiber bundles and cables",2019,1214703666
+106,EL,EL020,"Optical goods, including ophthalmic goods",2015,10088236215
+106,EL,EL020,"Optical goods, including ophthalmic goods",2016,10665800497
+106,EL,EL020,"Optical goods, including ophthalmic goods",2017,11567590023
+106,EL,EL020,"Optical goods, including ophthalmic goods",2018,12604915319
+106,EL,EL020,"Optical goods, including ophthalmic goods",2019,12350096930
+107,EL,EL021,Photographic cameras and equipment,2015,822320794
+107,EL,EL021,Photographic cameras and equipment,2016,909291574
+107,EL,EL021,Photographic cameras and equipment,2017,952288019
+107,EL,EL021,Photographic cameras and equipment,2018,900907144
+107,EL,EL021,Photographic cameras and equipment,2019,763784280
+108,EL,EL022,Medical goods,2015,37825849774
+108,EL,EL022,Medical goods,2016,40128408054
+108,EL,EL022,Medical goods,2017,42907589450
+108,EL,EL022,Medical goods,2018,47256565737
+108,EL,EL022,Medical goods,2019,50945595610
+109,EL,EL023,Watches and clocks,2015,5698121179
+109,EL,EL023,Watches and clocks,2016,4994435903
+109,EL,EL023,Watches and clocks,2017,4767010518
+109,EL,EL023,Watches and clocks,2018,4694987550
+109,EL,EL023,Watches and clocks,2019,4881016106
+110,EL,EL024,"Drawing, drafting, and calculating instruments",2015,300224835
+110,EL,EL024,"Drawing, drafting, and calculating instruments",2016,288537477
+110,EL,EL024,"Drawing, drafting, and calculating instruments",2017,313700934
+110,EL,EL024,"Drawing, drafting, and calculating instruments",2018,349296669
+110,EL,EL024,"Drawing, drafting, and calculating instruments",2019,324703172
+111,EL,EL025,"Measuring, testing, and controlling instruments",2015,25997842606
+111,EL,EL025,"Measuring, testing, and controlling instruments",2016,25326203891
+111,EL,EL025,"Measuring, testing, and controlling instruments",2017,26913302774
+111,EL,EL025,"Measuring, testing, and controlling instruments",2018,28683603848
+111,EL,EL025,"Measuring, testing, and controlling instruments",2019,28549598285
+112,EP,EP001,Electrical energy,2015,2461582729
+112,EP,EP001,Electrical energy,2016,2192086802
+112,EP,EP001,Electrical energy,2017,2265848346
+112,EP,EP001,Electrical energy,2018,2252478614
+112,EP,EP001,Electrical energy,2019,1977038242
+113,EP,EP002,Nuclear materials,2015,2826192441
+113,EP,EP002,Nuclear materials,2016,3445994779
+113,EP,EP002,Nuclear materials,2017,2696935593
+113,EP,EP002,Nuclear materials,2018,2823731480
+113,EP,EP002,Nuclear materials,2019,2872731464
+114,EP,EP003,"Coal, coke, and related chemical products",2015,1746265607
+114,EP,EP003,"Coal, coke, and related chemical products",2016,1458098932
+114,EP,EP003,"Coal, coke, and related chemical products",2017,1447805416
+114,EP,EP003,"Coal, coke, and related chemical products",2018,1394082659
+114,EP,EP003,"Coal, coke, and related chemical products",2019,1366131919
+115,EP,EP004,Crude petroleum,2015,126073062664
+115,EP,EP004,Crude petroleum,2016,101865901058
+115,EP,EP004,Crude petroleum,2017,133179387559
+115,EP,EP004,Crude petroleum,2018,157108030603
+115,EP,EP004,Crude petroleum,2019,126894686866
+116,EP,EP005,Petroleum products,2015,51512599156
+116,EP,EP005,Petroleum products,2016,41130182074
+116,EP,EP005,Petroleum products,2017,48545298884
+116,EP,EP005,Petroleum products,2018,62696282429
+116,EP,EP005,Petroleum products,2019,62441903134
+117,EP,EP006,Natural gas and components,2015,9512114967
+117,EP,EP006,Natural gas and components,2016,7718731956
+117,EP,EP006,Natural gas and components,2017,9797849634
+117,EP,EP006,Natural gas and components,2018,10372080104
+117,EP,EP006,Natural gas and components,2019,9364521209
+118,FP,FP001,Logs and rough wood products,2015,540392658
+118,FP,FP001,Logs and rough wood products,2016,524194467
+118,FP,FP001,Logs and rough wood products,2017,525877357
+118,FP,FP001,Logs and rough wood products,2018,507243668
+118,FP,FP001,Logs and rough wood products,2019,513245578
+119,FP,FP002,Lumber,2015,5447099930
+119,FP,FP002,Lumber,2016,6609259913
+119,FP,FP002,Lumber,2017,7097655447
+119,FP,FP002,Lumber,2018,7192851801
+119,FP,FP002,Lumber,2019,5805872508
+120,FP,FP003,"Moldings, millwork, and joinery",2015,3214849767
+120,FP,FP003,"Moldings, millwork, and joinery",2016,3175082187
+120,FP,FP003,"Moldings, millwork, and joinery",2017,3412642870
+120,FP,FP003,"Moldings, millwork, and joinery",2018,3552758942
+120,FP,FP003,"Moldings, millwork, and joinery",2019,3436115593
+121,FP,FP004,Wood veneer and wood panels,2015,5226879838
+121,FP,FP004,Wood veneer and wood panels,2016,5729246213
+121,FP,FP004,Wood veneer and wood panels,2017,6139478654
+121,FP,FP004,Wood veneer and wood panels,2018,7019069655
+121,FP,FP004,Wood veneer and wood panels,2019,5442963403
+122,FP,FP005,Wooden containers,2015,736099595
+122,FP,FP005,Wooden containers,2016,733210628
+122,FP,FP005,Wooden containers,2017,766494079
+122,FP,FP005,Wooden containers,2018,787917390
+122,FP,FP005,Wooden containers,2019,741711637
+123,FP,FP006,Tools and tool handles of wood,2015,282285367
+123,FP,FP006,Tools and tool handles of wood,2016,289725378
+123,FP,FP006,Tools and tool handles of wood,2017,307068734
+123,FP,FP006,Tools and tool handles of wood,2018,339175476
+123,FP,FP006,Tools and tool handles of wood,2019,355030182
+124,FP,FP007,Miscellaneous articles of wood,2015,1529597124
+124,FP,FP007,Miscellaneous articles of wood,2016,1542466759
+124,FP,FP007,Miscellaneous articles of wood,2017,1709418453
+124,FP,FP007,Miscellaneous articles of wood,2018,1963118829
+124,FP,FP007,Miscellaneous articles of wood,2019,1823510578
+125,FP,FP008,Cork and rattan,2015,830869206
+125,FP,FP008,Cork and rattan,2016,767129148
+125,FP,FP008,Cork and rattan,2017,809829979
+125,FP,FP008,Cork and rattan,2018,886709098
+125,FP,FP008,Cork and rattan,2019,874124378
+126,FP,FP009,Wood pulp and recovered paper,2015,3300632625
+126,FP,FP009,Wood pulp and recovered paper,2016,3017475494
+126,FP,FP009,Wood pulp and recovered paper,2017,3165133159
+126,FP,FP009,Wood pulp and recovered paper,2018,3746723844
+126,FP,FP009,Wood pulp and recovered paper,2019,3433916245
+127,FP,FP010,Paper boxes and bags,2015,2338336913
+127,FP,FP010,Paper boxes and bags,2016,2402637109
+127,FP,FP010,Paper boxes and bags,2017,2536131884
+127,FP,FP010,Paper boxes and bags,2018,2744205106
+127,FP,FP010,Paper boxes and bags,2019,2612713353
+128,FP,FP011,Industrial papers and paperboards,2015,6337329997
+128,FP,FP011,Industrial papers and paperboards,2016,6356962162
+128,FP,FP011,Industrial papers and paperboards,2017,6563049038
+128,FP,FP011,Industrial papers and paperboards,2018,7159863853
+128,FP,FP011,Industrial papers and paperboards,2019,6800712421
+129,FP,FP012,Newsprint,2015,1068451585
+129,FP,FP012,Newsprint,2016,979325233
+129,FP,FP012,Newsprint,2017,907053694
+129,FP,FP012,Newsprint,2018,876974541
+129,FP,FP012,Newsprint,2019,745357981
+130,FP,FP013,Printing and writing papers,2015,3503148503
+130,FP,FP013,Printing and writing papers,2016,3086363394
+130,FP,FP013,Printing and writing papers,2017,2953855166
+130,FP,FP013,Printing and writing papers,2018,3496108207
+130,FP,FP013,Printing and writing papers,2019,3354483678
+131,FP,FP014,Certain specialty papers,2015,899964547
+131,FP,FP014,Certain specialty papers,2016,796270707
+131,FP,FP014,Certain specialty papers,2017,634271479
+131,FP,FP014,Certain specialty papers,2018,670535615
+131,FP,FP014,Certain specialty papers,2019,826013045
+132,FP,FP015,Miscellaneous paper products,2015,2670379154
+132,FP,FP015,Miscellaneous paper products,2016,2722172921
+132,FP,FP015,Miscellaneous paper products,2017,2822081450
+132,FP,FP015,Miscellaneous paper products,2018,3114437113
+132,FP,FP015,Miscellaneous paper products,2019,2993801425
+133,FP,FP016,Printed matter,2015,4463505478
+133,FP,FP016,Printed matter,2016,4367983739
+133,FP,FP016,Printed matter,2017,4401374747
+133,FP,FP016,Printed matter,2018,4601461995
+133,FP,FP016,Printed matter,2019,4707911018
+134,FW,FW001,Footwear,2015,27649914533
+134,FW,FW001,Footwear,2016,25632167096
+134,FW,FW001,Footwear,2017,25635879512
+134,FW,FW001,Footwear,2018,26547212671
+134,FW,FW001,Footwear,2019,27098157857
+135,MM,MM001,Clays and related mineral products,2015,424210460
+135,MM,MM001,Clays and related mineral products,2016,424839372
+135,MM,MM001,Clays and related mineral products,2017,478374539
+135,MM,MM001,Clays and related mineral products,2018,533670060
+135,MM,MM001,Clays and related mineral products,2019,529692981
+136,MM,MM002,Fluorspar and miscellaneous mineral substances,2015,158992991
+136,MM,MM002,Fluorspar and miscellaneous mineral substances,2016,153106776
+136,MM,MM002,Fluorspar and miscellaneous mineral substances,2017,162753031
+136,MM,MM002,Fluorspar and miscellaneous mineral substances,2018,202097898
+136,MM,MM002,Fluorspar and miscellaneous mineral substances,2019,222497684
+137,MM,MM003,Iron ores and concentrates,2015,455115485
+137,MM,MM003,Iron ores and concentrates,2016,245989488
+137,MM,MM003,Iron ores and concentrates,2017,628390231
+137,MM,MM003,Iron ores and concentrates,2018,589659456
+137,MM,MM003,Iron ores and concentrates,2019,775134257
+138,MM,MM004,Copper ores and concentrates,2015,74458923
+138,MM,MM004,Copper ores and concentrates,2016,145293608
+138,MM,MM004,Copper ores and concentrates,2017,95288051
+138,MM,MM004,Copper ores and concentrates,2018,139043852
+138,MM,MM004,Copper ores and concentrates,2019,153130814
+139,MM,MM005,"Lead ores, concentrates, and residues",2015,1417938
+139,MM,MM005,"Lead ores, concentrates, and residues",2016,2406433
+139,MM,MM005,"Lead ores, concentrates, and residues",2017,3253153
+139,MM,MM005,"Lead ores, concentrates, and residues",2018,3140713
+139,MM,MM005,"Lead ores, concentrates, and residues",2019,2687171
+140,MM,MM006,"Zinc ores, concentrates, and residues",2015,8402014
+140,MM,MM006,"Zinc ores, concentrates, and residues",2016,6932758
+140,MM,MM006,"Zinc ores, concentrates, and residues",2017,28286705
+140,MM,MM006,"Zinc ores, concentrates, and residues",2018,9040884
+140,MM,MM006,"Zinc ores, concentrates, and residues",2019,7003478
+141,MM,MM007,"Certain ores, concentrates, ash, and residues",2015,1717345102
+141,MM,MM007,"Certain ores, concentrates, ash, and residues",2016,1463855052
+141,MM,MM007,"Certain ores, concentrates, ash, and residues",2017,1595477671
+141,MM,MM007,"Certain ores, concentrates, ash, and residues",2018,1953473924
+141,MM,MM007,"Certain ores, concentrates, ash, and residues",2019,1901532175
+142,MM,MM008,Precious metal ores and concentrates,2015,21886539
+142,MM,MM008,Precious metal ores and concentrates,2016,13479241
+142,MM,MM008,Precious metal ores and concentrates,2017,10928455
+142,MM,MM008,Precious metal ores and concentrates,2018,3238212
+142,MM,MM008,Precious metal ores and concentrates,2019,273433
+143,MM,MM009,"Cement, stone, and related products",2015,7812164184
+143,MM,MM009,"Cement, stone, and related products",2016,7869467278
+143,MM,MM009,"Cement, stone, and related products",2017,8443081497
+143,MM,MM009,"Cement, stone, and related products",2018,9136594937
+143,MM,MM009,"Cement, stone, and related products",2019,8843902386
+144,MM,MM010,Industrial ceramics,2015,1377574375
+144,MM,MM010,Industrial ceramics,2016,1300596311
+144,MM,MM010,Industrial ceramics,2017,1456348350
+144,MM,MM010,Industrial ceramics,2018,1593519132
+144,MM,MM010,Industrial ceramics,2019,1468797980
+145,MM,MM011,Ceramic bricks and similar articles,2015,54564075
+145,MM,MM011,Ceramic bricks and similar articles,2016,64047188
+145,MM,MM011,Ceramic bricks and similar articles,2017,64223237
+145,MM,MM011,Ceramic bricks and similar articles,2018,71644034
+145,MM,MM011,Ceramic bricks and similar articles,2019,74255197
+146,MM,MM012,Ceramic floor and wall tiles,2015,1642226845
+146,MM,MM012,Ceramic floor and wall tiles,2016,1725214774
+146,MM,MM012,Ceramic floor and wall tiles,2017,1811641953
+146,MM,MM012,Ceramic floor and wall tiles,2018,1871116745
+146,MM,MM012,Ceramic floor and wall tiles,2019,1712112795
+147,MM,MM013,Ceramic household articles,2015,1786830190
+147,MM,MM013,Ceramic household articles,2016,1683748335
+147,MM,MM013,Ceramic household articles,2017,1722626591
+147,MM,MM013,Ceramic household articles,2018,1898564178
+147,MM,MM013,Ceramic household articles,2019,1917516355
+148,MM,MM014,Flat glass,2015,2466351054
+148,MM,MM014,Flat glass,2016,2550227806
+148,MM,MM014,Flat glass,2017,2530521695
+148,MM,MM014,Flat glass,2018,2811021720
+148,MM,MM014,Flat glass,2019,2667257594
+149,MM,MM015,Glass containers,2015,1394354849
+149,MM,MM015,Glass containers,2016,1332979120
+149,MM,MM015,Glass containers,2017,1364008782
+149,MM,MM015,Glass containers,2018,1485608830
+149,MM,MM015,Glass containers,2019,1435280526
+150,MM,MM016,Household glassware,2015,973902286
+150,MM,MM016,Household glassware,2016,960154864
+150,MM,MM016,Household glassware,2017,976450767
+150,MM,MM016,Household glassware,2018,1057945647
+150,MM,MM016,Household glassware,2019,1064857434
+151,MM,MM017,Miscellaneous glass products,2015,1191240801
+151,MM,MM017,Miscellaneous glass products,2016,1150720624
+151,MM,MM017,Miscellaneous glass products,2017,1192751164
+151,MM,MM017,Miscellaneous glass products,2018,1231243002
+151,MM,MM017,Miscellaneous glass products,2019,1165254410
+152,MM,MM018,Fiberglass insulation products,2015,223050447
+152,MM,MM018,Fiberglass insulation products,2016,200242225
+152,MM,MM018,Fiberglass insulation products,2017,195902666
+152,MM,MM018,Fiberglass insulation products,2018,207448074
+152,MM,MM018,Fiberglass insulation products,2019,109300119
+153,MM,MM019,Natural and synthetic gemstones,2015,25375092995
+153,MM,MM019,Natural and synthetic gemstones,2016,26092661258
+153,MM,MM019,Natural and synthetic gemstones,2017,25019973059
+153,MM,MM019,Natural and synthetic gemstones,2018,26402230952
+153,MM,MM019,Natural and synthetic gemstones,2019,22027770124
+154,MM,MM020,Precious metals and non-numismatic coins,2015,22047432890
+154,MM,MM020,Precious metals and non-numismatic coins,2016,27435841151
+154,MM,MM020,Precious metals and non-numismatic coins,2017,22140345690
+154,MM,MM020,Precious metals and non-numismatic coins,2018,21790525702
+154,MM,MM020,Precious metals and non-numismatic coins,2019,23178256252
+155,MM,MM021,Primary iron products,2015,1781968185
+155,MM,MM021,Primary iron products,2016,1285824438
+155,MM,MM021,Primary iron products,2017,2334178139
+155,MM,MM021,Primary iron products,2018,3002588032
+155,MM,MM021,Primary iron products,2019,2364235821
+156,MM,MM022,Ferroalloys,2015,2208514518
+156,MM,MM022,Ferroalloys,2016,1793755315
+156,MM,MM022,Ferroalloys,2017,2990359820
+156,MM,MM022,Ferroalloys,2018,3577261871
+156,MM,MM022,Ferroalloys,2019,2620413205
+157,MM,MM023,Iron and steel waste and scrap,2015,960397268
+157,MM,MM023,Iron and steel waste and scrap,2016,951771001
+157,MM,MM023,Iron and steel waste and scrap,2017,1492832905
+157,MM,MM023,Iron and steel waste and scrap,2018,1816812592
+157,MM,MM023,Iron and steel waste and scrap,2019,1313343112
+158,MM,MM024,Abrasive and ferrous products,2015,1265730449
+158,MM,MM024,Abrasive and ferrous products,2016,1234278804
+158,MM,MM024,Abrasive and ferrous products,2017,1362960359
+158,MM,MM024,Abrasive and ferrous products,2018,1495396551
+158,MM,MM024,Abrasive and ferrous products,2019,1402764164
+159,MM,MM025,Steel mill products,2015,30447984207
+159,MM,MM025,Steel mill products,2016,22225341280
+159,MM,MM025,Steel mill products,2017,29186026316
+159,MM,MM025,Steel mill products,2018,29695385196
+159,MM,MM025,Steel mill products,2019,24074052524
+160,MM,MM026,Steel pipe and tube fittings and certain cast products,2015,2300070322
+160,MM,MM026,Steel pipe and tube fittings and certain cast products,2016,1813545117
+160,MM,MM026,Steel pipe and tube fittings and certain cast products,2017,2136157810
+160,MM,MM026,Steel pipe and tube fittings and certain cast products,2018,2795060496
+160,MM,MM026,Steel pipe and tube fittings and certain cast products,2019,2574206996
+161,MM,MM027,Fabricated structurals,2015,1617125973
+161,MM,MM027,Fabricated structurals,2016,1707890148
+161,MM,MM027,Fabricated structurals,2017,1576239027
+161,MM,MM027,Fabricated structurals,2018,1810004206
+161,MM,MM027,Fabricated structurals,2019,1872147575
+162,MM,MM028,Metal construction components,2015,3313933174
+162,MM,MM028,Metal construction components,2016,3777568972
+162,MM,MM028,Metal construction components,2017,3873189666
+162,MM,MM028,Metal construction components,2018,4133972804
+162,MM,MM028,Metal construction components,2019,4557552522
+163,MM,MM029,Metallic containers,2015,1583993521
+163,MM,MM029,Metallic containers,2016,1490353990
+163,MM,MM029,Metallic containers,2017,1519944983
+163,MM,MM029,Metallic containers,2018,1871704276
+163,MM,MM029,Metallic containers,2019,1583991241
+164,MM,MM030,Wire products of base metal,2015,2705238979
+164,MM,MM030,Wire products of base metal,2016,2538953038
+164,MM,MM030,Wire products of base metal,2017,2717729566
+164,MM,MM030,Wire products of base metal,2018,3341474570
+164,MM,MM030,Wire products of base metal,2019,3268715410
+165,MM,MM031,Miscellaneous products of base metal,2015,16965993331
+165,MM,MM031,Miscellaneous products of base metal,2016,16721903222
+165,MM,MM031,Miscellaneous products of base metal,2017,17936473745
+165,MM,MM031,Miscellaneous products of base metal,2018,19814592284
+165,MM,MM031,Miscellaneous products of base metal,2019,19716718057
+166,MM,MM032,Industrial fasteners of base metal,2015,5181307927
+166,MM,MM032,Industrial fasteners of base metal,2016,4680045630
+166,MM,MM032,Industrial fasteners of base metal,2017,5048792694
+166,MM,MM032,Industrial fasteners of base metal,2018,5916334514
+166,MM,MM032,Industrial fasteners of base metal,2019,5736330606
+167,MM,MM033,Cooking and kitchen ware,2015,3392262034
+167,MM,MM033,Cooking and kitchen ware,2016,3865125174
+167,MM,MM033,Cooking and kitchen ware,2017,4000489676
+167,MM,MM033,Cooking and kitchen ware,2018,4172129288
+167,MM,MM033,Cooking and kitchen ware,2019,4307070934
+168,MM,MM034,Metal and ceramic sanitary ware,2015,1657794352
+168,MM,MM034,Metal and ceramic sanitary ware,2016,1637650988
+168,MM,MM034,Metal and ceramic sanitary ware,2017,1733087628
+168,MM,MM034,Metal and ceramic sanitary ware,2018,1971636820
+168,MM,MM034,Metal and ceramic sanitary ware,2019,1895232335
+169,MM,MM035,Construction castings and other cast-iron articles,2015,206252303
+169,MM,MM035,Construction castings and other cast-iron articles,2016,176769760
+169,MM,MM035,Construction castings and other cast-iron articles,2017,188553569
+169,MM,MM035,Construction castings and other cast-iron articles,2018,230920055
+169,MM,MM035,Construction castings and other cast-iron articles,2019,202732017
+170,MM,MM036,Copper and related articles,2015,7991275313
+170,MM,MM036,Copper and related articles,2016,7173542317
+170,MM,MM036,Copper and related articles,2017,9714331238
+170,MM,MM036,Copper and related articles,2018,10539184521
+170,MM,MM036,Copper and related articles,2019,9256873898
+171,MM,MM037,Unwrought aluminum,2015,8376162025
+171,MM,MM037,Unwrought aluminum,2016,8949309893
+171,MM,MM037,Unwrought aluminum,2017,11850130429
+171,MM,MM037,Unwrought aluminum,2018,11427566266
+171,MM,MM037,Unwrought aluminum,2019,9722997148
+172,MM,MM038,Aluminum mill products,2015,5478877519
+172,MM,MM038,Aluminum mill products,2016,5208164176
+172,MM,MM038,Aluminum mill products,2017,6578422178
+172,MM,MM038,Aluminum mill products,2018,7375306272
+172,MM,MM038,Aluminum mill products,2019,7026497619
+173,MM,MM039,Lead and related articles,2015,1031102756
+173,MM,MM039,Lead and related articles,2016,1093980173
+173,MM,MM039,Lead and related articles,2017,1529711204
+173,MM,MM039,Lead and related articles,2018,1325042302
+173,MM,MM039,Lead and related articles,2019,1063060359
+174,MM,MM040,Zinc and related articles,2015,1686785016
+174,MM,MM040,Zinc and related articles,2016,1724554678
+174,MM,MM040,Zinc and related articles,2017,2124283390
+174,MM,MM040,Zinc and related articles,2018,2487405984
+174,MM,MM040,Zinc and related articles,2019,2305170835
+175,MM,MM041,Certain base metals and chemical elements,2015,5341879951
+175,MM,MM041,Certain base metals and chemical elements,2016,4417404248
+175,MM,MM041,Certain base metals and chemical elements,2017,5477325429
+175,MM,MM041,Certain base metals and chemical elements,2018,6475433198
+175,MM,MM041,Certain base metals and chemical elements,2019,6195897532
+176,MM,MM042,Nonpowered handtools,2015,6806228596
+176,MM,MM042,Nonpowered handtools,2016,6522379228
+176,MM,MM042,Nonpowered handtools,2017,7188305651
+176,MM,MM042,Nonpowered handtools,2018,8079827609
+176,MM,MM042,Nonpowered handtools,2019,7591168901
+177,MM,MM043,"Certain cutlery, sewing implements, and related products",2015,2098003570
+177,MM,MM043,"Certain cutlery, sewing implements, and related products",2016,2024322695
+177,MM,MM043,"Certain cutlery, sewing implements, and related products",2017,2076159802
+177,MM,MM043,"Certain cutlery, sewing implements, and related products",2018,2144863943
+177,MM,MM043,"Certain cutlery, sewing implements, and related products",2019,2069334934
+178,MM,MM044,Table flatware and related products,2015,644194790
+178,MM,MM044,Table flatware and related products,2016,602609123
+178,MM,MM044,Table flatware and related products,2017,609135416
+178,MM,MM044,Table flatware and related products,2018,706334434
+178,MM,MM044,Table flatware and related products,2019,785180626
+179,MM,MM045,Certain builders' hardware,2015,5012701630
+179,MM,MM045,Certain builders' hardware,2016,5037313209
+179,MM,MM045,Certain builders' hardware,2017,5278914973
+179,MM,MM045,Certain builders' hardware,2018,5954482557
+179,MM,MM045,Certain builders' hardware,2019,5812425780
+180,MS,MS001,"Luggage, handbags, and flat goods",2015,11376543706
+180,MS,MS001,"Luggage, handbags, and flat goods",2016,10646044721
+180,MS,MS001,"Luggage, handbags, and flat goods",2017,10853945828
+180,MS,MS001,"Luggage, handbags, and flat goods",2018,11525491493
+180,MS,MS001,"Luggage, handbags, and flat goods",2019,10684676235
+181,MS,MS002,Certain other leather goods,2015,642497287
+181,MS,MS002,Certain other leather goods,2016,633469689
+181,MS,MS002,Certain other leather goods,2017,697297797
+181,MS,MS002,Certain other leather goods,2018,786650383
+181,MS,MS002,Certain other leather goods,2019,681041927
+182,MS,MS003,Musical instruments and accessories,2015,1265883926
+182,MS,MS003,Musical instruments and accessories,2016,1233912616
+182,MS,MS003,Musical instruments and accessories,2017,1292335054
+182,MS,MS003,Musical instruments and accessories,2018,1383774126
+182,MS,MS003,Musical instruments and accessories,2019,1476303952
+183,MS,MS004,"Umbrellas, whips, riding crops, and canes",2015,573894098
+183,MS,MS004,"Umbrellas, whips, riding crops, and canes",2016,569349941
+183,MS,MS004,"Umbrellas, whips, riding crops, and canes",2017,623295081
+183,MS,MS004,"Umbrellas, whips, riding crops, and canes",2018,624734968
+183,MS,MS004,"Umbrellas, whips, riding crops, and canes",2019,642856611
+184,MS,MS005,Silverware and related articles of precious metal,2015,1573031483
+184,MS,MS005,Silverware and related articles of precious metal,2016,1676343491
+184,MS,MS005,Silverware and related articles of precious metal,2017,746960337
+184,MS,MS005,Silverware and related articles of precious metal,2018,964962765
+184,MS,MS005,Silverware and related articles of precious metal,2019,1601548129
+185,MS,MS006,Precious jewelry and related articles,2015,8655616931
+185,MS,MS006,Precious jewelry and related articles,2016,9604622334
+185,MS,MS006,Precious jewelry and related articles,2017,9715004620
+185,MS,MS006,Precious jewelry and related articles,2018,9486170360
+185,MS,MS006,Precious jewelry and related articles,2019,9457674278
+186,MS,MS007,Costume jewelry and related articles,2015,1667102827
+186,MS,MS007,Costume jewelry and related articles,2016,1441905578
+186,MS,MS007,Costume jewelry and related articles,2017,1270915227
+186,MS,MS007,Costume jewelry and related articles,2018,1290006406
+186,MS,MS007,Costume jewelry and related articles,2019,1150213824
+187,MS,MS008,Bicycles and certain parts,2015,2135512533
+187,MS,MS008,Bicycles and certain parts,2016,1863307538
+187,MS,MS008,Bicycles and certain parts,2017,1864161586
+187,MS,MS008,Bicycles and certain parts,2018,2091845839
+187,MS,MS008,Bicycles and certain parts,2019,1817907369
+188,MS,MS009,Furniture,2015,34447501268
+188,MS,MS009,Furniture,2016,35879337340
+188,MS,MS009,Furniture,2017,39190686636
+188,MS,MS009,Furniture,2018,42509904750
+188,MS,MS009,Furniture,2019,39429366992
+189,MS,MS010,Writing instruments and related articles,2015,1574831526
+189,MS,MS010,Writing instruments and related articles,2016,1756919090
+189,MS,MS010,Writing instruments and related articles,2017,1599318617
+189,MS,MS010,Writing instruments and related articles,2018,1537436986
+189,MS,MS010,Writing instruments and related articles,2019,1527019201
+190,MS,MS011,Lamps and lighting fittings,2015,10241858811
+190,MS,MS011,Lamps and lighting fittings,2016,10776863900
+190,MS,MS011,Lamps and lighting fittings,2017,11242296988
+190,MS,MS011,Lamps and lighting fittings,2018,11997699054
+190,MS,MS011,Lamps and lighting fittings,2019,10264096485
+191,MS,MS012,Prefabricated buildings,2015,273795554
+191,MS,MS012,Prefabricated buildings,2016,311278882
+191,MS,MS012,Prefabricated buildings,2017,303936523
+191,MS,MS012,Prefabricated buildings,2018,353823385
+191,MS,MS012,Prefabricated buildings,2019,394004579
+192,MS,MS013,Toys and games,2015,20754561347
+192,MS,MS013,Toys and games,2016,20279402230
+192,MS,MS013,Toys and games,2017,21882507247
+192,MS,MS013,Toys and games,2018,22874551494
+192,MS,MS013,Toys and games,2019,21780374989
+193,MS,MS014,Sporting goods,2015,6784624803
+193,MS,MS014,Sporting goods,2016,6466233904
+193,MS,MS014,Sporting goods,2017,6845450675
+193,MS,MS014,Sporting goods,2018,7243378435
+193,MS,MS014,Sporting goods,2019,7633013090
+194,MS,MS015,Smokers' articles,2015,272239247
+194,MS,MS015,Smokers' articles,2016,263355562
+194,MS,MS015,Smokers' articles,2017,296975458
+194,MS,MS015,Smokers' articles,2018,303820063
+194,MS,MS015,Smokers' articles,2019,300655682
+195,MS,MS016,"Brooms, brushes, and hair grooming articles",2015,1938895513
+195,MS,MS016,"Brooms, brushes, and hair grooming articles",2016,1968416332
+195,MS,MS016,"Brooms, brushes, and hair grooming articles",2017,1986815702
+195,MS,MS016,"Brooms, brushes, and hair grooming articles",2018,2164185774
+195,MS,MS016,"Brooms, brushes, and hair grooming articles",2019,2120757797
+196,MS,MS017,Works of art and miscellaneous manufactured goods,2015,17302174626
+196,MS,MS017,Works of art and miscellaneous manufactured goods,2016,15732754244
+196,MS,MS017,Works of art and miscellaneous manufactured goods,2017,16416877429
+196,MS,MS017,Works of art and miscellaneous manufactured goods,2018,18484515190
+196,MS,MS017,Works of art and miscellaneous manufactured goods,2019,19012234422
+197,MS,MS018,Apparel fasteners,2015,86536434
+197,MS,MS018,Apparel fasteners,2016,79754303
+197,MS,MS018,Apparel fasteners,2017,75300989
+197,MS,MS018,Apparel fasteners,2018,81066018
+197,MS,MS018,Apparel fasteners,2019,69653672
+198,MS,MS019,"Arms, ammunition, and armored vehicles",2015,3223404258
+198,MS,MS019,"Arms, ammunition, and armored vehicles",2016,3656500006
+198,MS,MS019,"Arms, ammunition, and armored vehicles",2017,3230355241
+198,MS,MS019,"Arms, ammunition, and armored vehicles",2018,3153200187
+198,MS,MS019,"Arms, ammunition, and armored vehicles",2019,3111151633
+199,MT,MT001,Pumps for liquids,2015,7683271326
+199,MT,MT001,Pumps for liquids,2016,6765663675
+199,MT,MT001,Pumps for liquids,2017,7710008488
+199,MT,MT001,Pumps for liquids,2018,8600531929
+199,MT,MT001,Pumps for liquids,2019,8312106044
+200,MT,MT002,Air-conditioning equipment and parts,2015,16825762933
+200,MT,MT002,Air-conditioning equipment and parts,2016,17139708632
+200,MT,MT002,Air-conditioning equipment and parts,2017,18771569847
+200,MT,MT002,Air-conditioning equipment and parts,2018,20748138092
+200,MT,MT002,Air-conditioning equipment and parts,2019,20682586896
+201,MT,MT003,Industrial thermal-processing equipment and furnaces,2015,5187235277
+201,MT,MT003,Industrial thermal-processing equipment and furnaces,2016,5041852884
+201,MT,MT003,Industrial thermal-processing equipment and furnaces,2017,5389381922
+201,MT,MT003,Industrial thermal-processing equipment and furnaces,2018,5909384909
+201,MT,MT003,Industrial thermal-processing equipment and furnaces,2019,6313879133
+202,MT,MT004,"Household appliances, including commercial applications",2015,26240390196
+202,MT,MT004,"Household appliances, including commercial applications",2016,25801583741
+202,MT,MT004,"Household appliances, including commercial applications",2017,27497596608
+202,MT,MT004,"Household appliances, including commercial applications",2018,29577654636
+202,MT,MT004,"Household appliances, including commercial applications",2019,29203051919
+203,MT,MT005,Centrifuges and filtering and purifying equipment,2015,6637013523
+203,MT,MT005,Centrifuges and filtering and purifying equipment,2016,6546970795
+203,MT,MT005,Centrifuges and filtering and purifying equipment,2017,6775306232
+203,MT,MT005,Centrifuges and filtering and purifying equipment,2018,7612144433
+203,MT,MT005,Centrifuges and filtering and purifying equipment,2019,7899701101
+204,MT,MT006,"Wrapping, packaging, and can-sealing machinery",2015,2455886450
+204,MT,MT006,"Wrapping, packaging, and can-sealing machinery",2016,2709471091
+204,MT,MT006,"Wrapping, packaging, and can-sealing machinery",2017,2790124372
+204,MT,MT006,"Wrapping, packaging, and can-sealing machinery",2018,3284886897
+204,MT,MT006,"Wrapping, packaging, and can-sealing machinery",2019,3415694939
+205,MT,MT007,Scales and weighing machinery,2015,738130112
+205,MT,MT007,Scales and weighing machinery,2016,732975551
+205,MT,MT007,Scales and weighing machinery,2017,698759022
+205,MT,MT007,Scales and weighing machinery,2018,752296994
+205,MT,MT007,Scales and weighing machinery,2019,675006146
+206,MT,MT008,Mineral processing machinery,2015,1320037088
+206,MT,MT008,Mineral processing machinery,2016,1270090766
+206,MT,MT008,Mineral processing machinery,2017,1271815439
+206,MT,MT008,Mineral processing machinery,2018,1431260909
+206,MT,MT008,Mineral processing machinery,2019,1401661654
+207,MT,MT009,Farm and garden machinery and equipment,2015,8591887062
+207,MT,MT009,Farm and garden machinery and equipment,2016,7689682591
+207,MT,MT009,Farm and garden machinery and equipment,2017,7815196520
+207,MT,MT009,Farm and garden machinery and equipment,2018,9230440219
+207,MT,MT009,Farm and garden machinery and equipment,2019,9517422057
+208,MT,MT010,Industrial food-processing and related machinery,2015,1393774097
+208,MT,MT010,Industrial food-processing and related machinery,2016,1543761126
+208,MT,MT010,Industrial food-processing and related machinery,2017,1500389013
+208,MT,MT010,Industrial food-processing and related machinery,2018,1629949667
+208,MT,MT010,Industrial food-processing and related machinery,2019,1643587823
+209,MT,MT011,"Pulp, paper, and paperboard machinery",2015,1365664226
+209,MT,MT011,"Pulp, paper, and paperboard machinery",2016,1457176957
+209,MT,MT011,"Pulp, paper, and paperboard machinery",2017,1573457568
+209,MT,MT011,"Pulp, paper, and paperboard machinery",2018,1855395998
+209,MT,MT011,"Pulp, paper, and paperboard machinery",2019,2052786942
+210,MT,MT012,Printing and related machinery,2015,1486688876
+210,MT,MT012,Printing and related machinery,2016,1575829347
+210,MT,MT012,Printing and related machinery,2017,1524823419
+210,MT,MT012,Printing and related machinery,2018,1498233583
+210,MT,MT012,Printing and related machinery,2019,1515412358
+211,MT,MT013,Textile machinery,2015,1537674922
+211,MT,MT013,Textile machinery,2016,1365520053
+211,MT,MT013,Textile machinery,2017,1454810164
+211,MT,MT013,Textile machinery,2018,1578123421
+211,MT,MT013,Textile machinery,2019,1374293429
+212,MT,MT014,Metal rolling mills,2015,386832588
+212,MT,MT014,Metal rolling mills,2016,304653995
+212,MT,MT014,Metal rolling mills,2017,306364969
+212,MT,MT014,Metal rolling mills,2018,470005731
+212,MT,MT014,Metal rolling mills,2019,599337776
+213,MT,MT015,Metal cutting machine tools,2015,4855878029
+213,MT,MT015,Metal cutting machine tools,2016,4344159631
+213,MT,MT015,Metal cutting machine tools,2017,4525353399
+213,MT,MT015,Metal cutting machine tools,2018,5460439234
+213,MT,MT015,Metal cutting machine tools,2019,5229606883
+214,MT,MT016,Machine tool accessories,2015,1008223811
+214,MT,MT016,Machine tool accessories,2016,1019925650
+214,MT,MT016,Machine tool accessories,2017,1140451964
+214,MT,MT016,Machine tool accessories,2018,1206585531
+214,MT,MT016,Machine tool accessories,2019,1265136449
+215,MT,MT017,Metal forming machine tools,2015,1574178000
+215,MT,MT017,Metal forming machine tools,2016,1580119802
+215,MT,MT017,Metal forming machine tools,2017,1828383785
+215,MT,MT017,Metal forming machine tools,2018,1912658941
+215,MT,MT017,Metal forming machine tools,2019,1755466558
+216,MT,MT018,Non-metalworking machine tools,2015,1726470834
+216,MT,MT018,Non-metalworking machine tools,2016,1911982218
+216,MT,MT018,Non-metalworking machine tools,2017,2105510665
+216,MT,MT018,Non-metalworking machine tools,2018,2324922426
+216,MT,MT018,Non-metalworking machine tools,2019,2328216080
+217,MT,MT019,Semiconductor manufacturing equipment and robotics,2015,11994335376
+217,MT,MT019,Semiconductor manufacturing equipment and robotics,2016,12097649370
+217,MT,MT019,Semiconductor manufacturing equipment and robotics,2017,15573708489
+217,MT,MT019,Semiconductor manufacturing equipment and robotics,2018,16487497531
+217,MT,MT019,Semiconductor manufacturing equipment and robotics,2019,18101877873
+218,MT,MT020,"Taps, cocks, valves, and similar devices",2015,14881963887
+218,MT,MT020,"Taps, cocks, valves, and similar devices",2016,13421281971
+218,MT,MT020,"Taps, cocks, valves, and similar devices",2017,14463124387
+218,MT,MT020,"Taps, cocks, valves, and similar devices",2018,16231782765
+218,MT,MT020,"Taps, cocks, valves, and similar devices",2019,15207163180
+219,MT,MT021,Mechanical power transmission equipment,2015,5644956383
+219,MT,MT021,Mechanical power transmission equipment,2016,5259731746
+219,MT,MT021,Mechanical power transmission equipment,2017,5841988415
+219,MT,MT021,Mechanical power transmission equipment,2018,6372984751
+219,MT,MT021,Mechanical power transmission equipment,2019,6466531676
+220,MT,MT022,"Boilers, turbines, and related machinery",2015,1607987044
+220,MT,MT022,"Boilers, turbines, and related machinery",2016,1380299460
+220,MT,MT022,"Boilers, turbines, and related machinery",2017,1361825435
+220,MT,MT022,"Boilers, turbines, and related machinery",2018,1254675700
+220,MT,MT022,"Boilers, turbines, and related machinery",2019,959158621
+221,MT,MT023,"Electric motors, generators, and related equipment",2015,13584555860
+221,MT,MT023,"Electric motors, generators, and related equipment",2016,13190741051
+221,MT,MT023,"Electric motors, generators, and related equipment",2017,14389883586
+221,MT,MT023,"Electric motors, generators, and related equipment",2018,15593396208
+221,MT,MT023,"Electric motors, generators, and related equipment",2019,15144275579
+222,MT,MT024,"Electrical transformers, static converters, and inductors",2015,11833984285
+222,MT,MT024,"Electrical transformers, static converters, and inductors",2016,11542613253
+222,MT,MT024,"Electrical transformers, static converters, and inductors",2017,11670087374
+222,MT,MT024,"Electrical transformers, static converters, and inductors",2018,12544848021
+222,MT,MT024,"Electrical transformers, static converters, and inductors",2019,12689449191
+223,MT,MT025,Portable electric handtools,2015,3474450521
+223,MT,MT025,Portable electric handtools,2016,3585607604
+223,MT,MT025,Portable electric handtools,2017,4062910395
+223,MT,MT025,Portable electric handtools,2018,4509932114
+223,MT,MT025,Portable electric handtools,2019,4624733379
+224,MT,MT026,Nonelectrically powered handtools,2015,1594937633
+224,MT,MT026,Nonelectrically powered handtools,2016,1584935967
+224,MT,MT026,Nonelectrically powered handtools,2017,1721753103
+224,MT,MT026,Nonelectrically powered handtools,2018,1706935944
+224,MT,MT026,Nonelectrically powered handtools,2019,1547166283
+225,MT,MT027,Electric lamps (bulbs) and portable electric lights,2015,2705712953
+225,MT,MT027,Electric lamps (bulbs) and portable electric lights,2016,2384959614
+225,MT,MT027,Electric lamps (bulbs) and portable electric lights,2017,2102320065
+225,MT,MT027,Electric lamps (bulbs) and portable electric lights,2018,2036806067
+225,MT,MT027,Electric lamps (bulbs) and portable electric lights,2019,1786919865
+226,MT,MT028,Welding and soldering equipment,2015,1447989645
+226,MT,MT028,Welding and soldering equipment,2016,1555981480
+226,MT,MT028,Welding and soldering equipment,2017,2021577397
+226,MT,MT028,Welding and soldering equipment,2018,1746117639
+226,MT,MT028,Welding and soldering equipment,2019,1624973685
+227,MT,MT029,Nonautomotive insulated electrical wire and related products,2015,8417075064
+227,MT,MT029,Nonautomotive insulated electrical wire and related products,2016,7873707242
+227,MT,MT029,Nonautomotive insulated electrical wire and related products,2017,8646155937
+227,MT,MT029,Nonautomotive insulated electrical wire and related products,2018,9742780818
+227,MT,MT029,Nonautomotive insulated electrical wire and related products,2019,9189428674
+228,MT,MT030,Miscellaneous machinery,2015,13242639040
+228,MT,MT030,Miscellaneous machinery,2016,12287649344
+228,MT,MT030,Miscellaneous machinery,2017,14321739274
+228,MT,MT030,Miscellaneous machinery,2018,15921398714
+228,MT,MT030,Miscellaneous machinery,2019,15558477347
+229,MT,MT031,Molds and molding machinery,2015,4480854316
+229,MT,MT031,Molds and molding machinery,2016,4438220609
+229,MT,MT031,Molds and molding machinery,2017,5124550113
+229,MT,MT031,Molds and molding machinery,2018,5167019598
+229,MT,MT031,Molds and molding machinery,2019,4754090648
+230,TE,TE001,Aircraft engines and gas turbines,2015,22427677534
+230,TE,TE001,Aircraft engines and gas turbines,2016,21913468320
+230,TE,TE001,Aircraft engines and gas turbines,2017,23606960715
+230,TE,TE001,Aircraft engines and gas turbines,2018,26466574346
+230,TE,TE001,Aircraft engines and gas turbines,2019,30948201311
+231,TE,TE002,"Internal combustion piston engines, other than for aircraft",2015,30044879972
+231,TE,TE002,"Internal combustion piston engines, other than for aircraft",2016,28183840492
+231,TE,TE002,"Internal combustion piston engines, other than for aircraft",2017,29063610308
+231,TE,TE002,"Internal combustion piston engines, other than for aircraft",2018,31537922669
+231,TE,TE002,"Internal combustion piston engines, other than for aircraft",2019,30485806640
+232,TE,TE003,Forklift trucks and similar industrial vehicles,2015,3285489173
+232,TE,TE003,Forklift trucks and similar industrial vehicles,2016,3127981908
+232,TE,TE003,Forklift trucks and similar industrial vehicles,2017,3746907708
+232,TE,TE003,Forklift trucks and similar industrial vehicles,2018,4676722928
+232,TE,TE003,Forklift trucks and similar industrial vehicles,2019,4526745332
+233,TE,TE004,Construction and mining equipment,2015,14881477512
+233,TE,TE004,Construction and mining equipment,2016,12651123317
+233,TE,TE004,Construction and mining equipment,2017,14533383719
+233,TE,TE004,Construction and mining equipment,2018,18260135050
+233,TE,TE004,Construction and mining equipment,2019,19438576107
+234,TE,TE005,Ball and rollers bearings,2015,4012992713
+234,TE,TE005,Ball and rollers bearings,2016,3605913740
+234,TE,TE005,Ball and rollers bearings,2017,3972748301
+234,TE,TE005,Ball and rollers bearings,2018,4360314767
+234,TE,TE005,Ball and rollers bearings,2019,4211128507
+235,TE,TE006,Primary cells and batteries and electric storage batteries,2015,5577159463
+235,TE,TE006,Primary cells and batteries and electric storage batteries,2016,6158629231
+235,TE,TE006,Primary cells and batteries and electric storage batteries,2017,7978701976
+235,TE,TE006,Primary cells and batteries and electric storage batteries,2018,8990414446
+235,TE,TE006,Primary cells and batteries and electric storage batteries,2019,9136432390
+236,TE,TE007,"Ignition, starting, lighting, and other electrical equipment",2015,9322659892
+236,TE,TE007,"Ignition, starting, lighting, and other electrical equipment",2016,9533903296
+236,TE,TE007,"Ignition, starting, lighting, and other electrical equipment",2017,9679273804
+236,TE,TE007,"Ignition, starting, lighting, and other electrical equipment",2018,10707056176
+236,TE,TE007,"Ignition, starting, lighting, and other electrical equipment",2019,10326970538
+237,TE,TE008,Rail locomotive and rolling stock,2015,2196981397
+237,TE,TE008,Rail locomotive and rolling stock,2016,1535298144
+237,TE,TE008,Rail locomotive and rolling stock,2017,1608001674
+237,TE,TE008,Rail locomotive and rolling stock,2018,2128185834
+237,TE,TE008,Rail locomotive and rolling stock,2019,2066005700
+238,TE,TE009,Motor vehicles,2015,197787317890
+238,TE,TE009,Motor vehicles,2016,200726017997
+238,TE,TE009,Motor vehicles,2017,208646595696
+238,TE,TE009,Motor vehicles,2018,211002703630
+238,TE,TE009,Motor vehicles,2019,217516699670
+239,TE,TE010,Certain motor-vehicle parts,2015,86138600509
+239,TE,TE010,Certain motor-vehicle parts,2016,85717652814
+239,TE,TE010,Certain motor-vehicle parts,2017,84648982166
+239,TE,TE010,Certain motor-vehicle parts,2018,91078576690
+239,TE,TE010,Certain motor-vehicle parts,2019,89382938530
+240,TE,TE011,Powersport vehicles,2015,4582699446
+240,TE,TE011,Powersport vehicles,2016,4335664289
+240,TE,TE011,Powersport vehicles,2017,4913302581
+240,TE,TE011,Powersport vehicles,2018,6064087963
+240,TE,TE011,Powersport vehicles,2019,5897942962
+241,TE,TE012,"Trailers, semi-trailers, and parts",2015,3072314363
+241,TE,TE012,"Trailers, semi-trailers, and parts",2016,2890558257
+241,TE,TE012,"Trailers, semi-trailers, and parts",2017,3384012045
+241,TE,TE012,"Trailers, semi-trailers, and parts",2018,4211248071
+241,TE,TE012,"Trailers, semi-trailers, and parts",2019,4040091486
+242,TE,TE013,"Aircraft, spacecraft, and related equipment",2015,35869927088
+242,TE,TE013,"Aircraft, spacecraft, and related equipment",2016,31440648098
+242,TE,TE013,"Aircraft, spacecraft, and related equipment",2017,31176558538
+242,TE,TE013,"Aircraft, spacecraft, and related equipment",2018,32413607701
+242,TE,TE013,"Aircraft, spacecraft, and related equipment",2019,35450271476
+243,TE,TE014,"Ships, tugs, pleasure boats, and similar vessels",2015,2813174333
+243,TE,TE014,"Ships, tugs, pleasure boats, and similar vessels",2016,2076821571
+243,TE,TE014,"Ships, tugs, pleasure boats, and similar vessels",2017,2577223643
+243,TE,TE014,"Ships, tugs, pleasure boats, and similar vessels",2018,2249171405
+243,TE,TE014,"Ships, tugs, pleasure boats, and similar vessels",2019,2393241967
+244,TE,TE015,"Motors and engines, except internal combustion, aircraft, or electric",2015,4407312901
+244,TE,TE015,"Motors and engines, except internal combustion, aircraft, or electric",2016,4222342790
+244,TE,TE015,"Motors and engines, except internal combustion, aircraft, or electric",2017,4666633988
+244,TE,TE015,"Motors and engines, except internal combustion, aircraft, or electric",2018,5398356360
+244,TE,TE015,"Motors and engines, except internal combustion, aircraft, or electric",2019,6199329832
+245,TX,TX001,"Fibers and yarns, except raw cotton and raw wool",2015,3868254037
+245,TX,TX001,"Fibers and yarns, except raw cotton and raw wool",2016,3465732986
+245,TX,TX001,"Fibers and yarns, except raw cotton and raw wool",2017,3516778578
+245,TX,TX001,"Fibers and yarns, except raw cotton and raw wool",2018,3981349748
+245,TX,TX001,"Fibers and yarns, except raw cotton and raw wool",2019,3545157590
+246,TX,TX002,Fabrics,2015,7397003975
+246,TX,TX002,Fabrics,2016,7084407078
+246,TX,TX002,Fabrics,2017,7019343999
+246,TX,TX002,Fabrics,2018,7494505415
+246,TX,TX002,Fabrics,2019,7046695149
+247,TX,TX003,Carpets and rugs,2015,2518756443
+247,TX,TX003,Carpets and rugs,2016,2662074433
+247,TX,TX003,Carpets and rugs,2017,2767487396
+247,TX,TX003,Carpets and rugs,2018,3102299746
+247,TX,TX003,Carpets and rugs,2019,2895670497
+248,TX,TX004,Home furnishings,2015,10979110911
+248,TX,TX004,Home furnishings,2016,10687451408
+248,TX,TX004,Home furnishings,2017,11218378998
+248,TX,TX004,Home furnishings,2018,11866662113
+248,TX,TX004,Home furnishings,2019,12301848927
+249,TX,TX005,Apparel,2015,93921943726
+249,TX,TX005,Apparel,2016,88443220180
+249,TX,TX005,Apparel,2017,88500661128
+249,TX,TX005,Apparel,2018,92227308091
+249,TX,TX005,Apparel,2019,92765882278
+250,TX,TX006,Miscellaneous textile products,2015,7849914036
+250,TX,TX006,Miscellaneous textile products,2016,7836651417
+250,TX,TX006,Miscellaneous textile products,2017,8201336529
+250,TX,TX006,Miscellaneous textile products,2018,8840440970
+250,TX,TX006,Miscellaneous textile products,2019,9134203161
+251,XX,XX098,CHAPTER 98 (EXPORTS VALID AT CHAPTER LEVEL ONLY),2015,67289405172
+251,XX,XX098,CHAPTER 98 (EXPORTS VALID AT CHAPTER LEVEL ONLY),2016,68957486236
+251,XX,XX098,CHAPTER 98 (EXPORTS VALID AT CHAPTER LEVEL ONLY),2017,72856368462
+251,XX,XX098,CHAPTER 98 (EXPORTS VALID AT CHAPTER LEVEL ONLY),2018,82491516784
+251,XX,XX098,CHAPTER 98 (EXPORTS VALID AT CHAPTER LEVEL ONLY),2019,93581239401
+252,XX,XX099,CHAPTER 99 (EXPORTS VALID AT CHAPTER LEVEL ONLY),2015,17134432029
+252,XX,XX099,CHAPTER 99 (EXPORTS VALID AT CHAPTER LEVEL ONLY),2016,16745225664
+252,XX,XX099,CHAPTER 99 (EXPORTS VALID AT CHAPTER LEVEL ONLY),2017,17457457408
+252,XX,XX099,CHAPTER 99 (EXPORTS VALID AT CHAPTER LEVEL ONLY),2018,18252716627
+252,XX,XX099,CHAPTER 99 (EXPORTS VALID AT CHAPTER LEVEL ONLY),2019,18826549031
