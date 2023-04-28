@@ -1,33 +1,33 @@
 # Data Wrangling in JavaScript
 
-https://observablehq.com/d/36faa6256951c555@438
+In this notebook, I will shared my lecture notes on the Introduction to data wrangling and analysis in JavaScript course. I would like to thank Allison Horst for this course.
 
-View this notebook in your browser by running a web server in this folder. For
-example:
+You can reach Observable notebook of the notes from [this link](https://observablehq.com/d/36faa6256951c555@438).
 
-~~~sh
+View this notebook in your browser by running a web server in this folder. For example:
+
+``` sh
 npx http-server
-~~~
+```
 
-Or, use the [Observable Runtime](https://github.com/observablehq/runtime) to
-import this module directly into your application. To npm install:
+Or, use the [Observable Runtime](https://github.com/observablehq/runtime) to import this module directly into your application. To npm install:
 
-~~~sh
+``` sh
 npm install @observablehq/runtime@5
 npm install https://api.observablehq.com/d/36faa6256951c555@438.tgz?v=3
-~~~
+```
 
 Then, import your notebook and the runtime as:
 
-~~~js
+``` js
 import {Runtime, Inspector} from "@observablehq/runtime";
 import define from "36faa6256951c555";
-~~~
+```
 
-To log the value of the cell named “foo”:
+To log the value of the cell named "foo":
 
-~~~js
+``` js
 const runtime = new Runtime();
 const main = runtime.module(define);
 main.value("foo").then(value => console.log(value));
-~~~
+```
