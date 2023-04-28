@@ -1,6 +1,6 @@
 # Data Wrangling in JavaScript
 
-In this notebook, I will shared my lecture notes on the Introduction to data wrangling and analysis in JavaScript course. I would like to thank Allison Horst for this course.
+In this notebook, I shared my lecture notes on the Introduction to data wrangling and analysis in JavaScript course. I would like to thank Allison Horst for this course.
 
 You can reach Observable notebook of the notes from [this link](https://observablehq.com/d/36faa6256951c555@438).
 
